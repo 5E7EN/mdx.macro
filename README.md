@@ -6,6 +6,8 @@
 
 A babel macro for converting mdx into components, using the [@mdx-js/mdx](https://github.com/mdx-js/mdx#readme) package.
 
+via [frontarm/mdx-util](https://github.com/frontarm/mdx-util)
+
 ## Installation
 
 Just install `mdx.macro`. It includes @mdx-js/mdx and @mdx-js/tag as dependencies.
